@@ -31,6 +31,7 @@ void main(List<String> arguments) {
     print(counter);
     counter++;
   }
+
   do {
     print(counter);
     counter++;
